@@ -16,6 +16,7 @@ Enjoy it!
 """)
 
 st.write(df)
+st.line_chart(df)
 
 #To run this program run this in the terminal: 
 # streamlit run Automate_Everything_with_PY\s8_ModernPythonTools\s8e67_CreateAndPublishWebAppsAndDataDashboardsWithStreamlit.py
